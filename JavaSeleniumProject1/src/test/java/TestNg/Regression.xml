@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Default suite" >
+  <test name="Regression Test">
+    <classes>
+      <class name="TestNg.TestNgTc2"/>
+      <parameter name="Username" value="Lakshmi"></parameter>
+      <parameter name="Password" value="Hcl123"></parameter>
+    </classes>
+  </test> </suite>
